@@ -4,11 +4,17 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NewtonJr5&bg_color=0d1117&color=267915&line=1f9a1d&point=1a8b18&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=
-NewtonJr5&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=228B22&bg_color=0d1117" alt="Newton Junior github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonJr5&layout=compact&hide_border=true&title_color=228B22&text_color=228B22&bg_color=0d1117" />
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <div align="center"> 
   <a href="https://instagram.com/newtonjunior2004" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
