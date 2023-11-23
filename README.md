@@ -4,17 +4,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NewtonJr5&bg_color=0d1117&color=267915&line=1f9a1d&point=1a8b18&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div align="center">
+  <a href="https://github.com/NewtonJr5/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NewtonJr5&theme=dark" />
+  </a>
+  <a href="https://github.com/NewtonJr5/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NewtonJr5&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
+</div>
 
 <div align="center"> 
   <a href="https://instagram.com/newtonjunior2004" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
