@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 
 
